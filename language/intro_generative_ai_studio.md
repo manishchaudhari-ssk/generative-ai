@@ -1,4 +1,3 @@
-
 # Getting started with Vertex AI Generative AI Studio's User Interface
 
 This guide provides instructions on how to use Generative AI Studio through the Google Cloud console, without using the API or Python SDK.
