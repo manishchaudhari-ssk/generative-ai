@@ -3,7 +3,7 @@
 
 This guide provides instructions on how to use Generative AI Studio through the Google Cloud console, without using the API or Python SDK.
 
-## Vertex AI Generative AI Studio on Google Cloud
+## Vertex AI Generative AI Studio on Google Cloud 
 
 [Vertex AI Generative AI Studio](https://cloud.google.com/generative-ai-studio) is a cloud-based platform that allows users to create and experiment with generative AI models. The platform provides a variety of tools and resources that make it easy to get started with generative AI, even if you don't have a background in machine learning.
 
